@@ -1,0 +1,13 @@
+.btn-orange {
+	background-color: #ff7900;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+.btn-orange:hover {
+	background-color: orange;
+	transition-delay: 0,1s;
+}
